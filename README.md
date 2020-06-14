@@ -1,1 +1,4 @@
-# Tpap-Lab4
+#Lab 4 Version Control
+
+## Tim Papich
+## tipa5225
